@@ -45,6 +45,7 @@ This project connects live vitals data (like heart rate and temperature) from se
 ### 🔧 Backend Setup
 # Clone the repository
 git clone https://github.com/SpurtiBhat/Healthcare_IOT-LLM.git
+
 cd Healthcare_IOT-LLM
 
 # Set up virtual environment (optional)
